@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/modern-UIUX-reactwebsite/static/css/main.7c5fd395.css",
+    "main.js": "/modern-UIUX-reactwebsite/static/js/main.0dbb1e8f.js",
+    "static/media/ai.png": "/modern-UIUX-reactwebsite/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/modern-UIUX-reactwebsite/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/modern-UIUX-reactwebsite/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/modern-UIUX-reactwebsite/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/modern-UIUX-reactwebsite/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/modern-UIUX-reactwebsite/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/modern-UIUX-reactwebsite/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/modern-UIUX-reactwebsite/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/modern-UIUX-reactwebsite/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/modern-UIUX-reactwebsite/index.html",
+    "main.7c5fd395.css.map": "/modern-UIUX-reactwebsite/static/css/main.7c5fd395.css.map",
+    "main.0dbb1e8f.js.map": "/modern-UIUX-reactwebsite/static/js/main.0dbb1e8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c5fd395.css",
+    "static/js/main.0dbb1e8f.js"
+  ]
+}
